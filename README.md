@@ -1,2 +1,2 @@
 # workflowx6-vue
-基于vue版本的流程编辑器
+基于@antv/x6的vue版本的流程编辑器
